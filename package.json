@@ -1,0 +1,31 @@
+{
+  "name": "less-plugin-run-loader-import",
+  "version": "1.0.0",
+  "description": "you can run some loaders before you import a less file",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedaybyday/less-plugin-run-loader-import.git"
+  },
+  "keywords": [
+    "less",
+    "less-loader",
+    "less-plugin"
+  ],
+  "author": "liubeijing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedaybyday/less-plugin-run-loader-import/issues"
+  },
+  "homepage": "https://github.com/codedaybyday/less-plugin-run-loader-import#readme",
+  "dependencies": {
+    "loader-runner": "^4.1.0"
+  }
+}
